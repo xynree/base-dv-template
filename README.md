@@ -80,4 +80,4 @@ The GitHub Actions workflow (`.github/workflows/deploy.yml`) automatically:
 
 - Triggers on pushes to `main` branch
 - Builds the project with the correct base path
-- Deploys to GitHub Pages
+- Deploys to GitHub Pages on the `gh-pages` branch
