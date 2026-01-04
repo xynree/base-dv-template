@@ -26,3 +26,8 @@ dist-ssr
 # ENV
 *.env
 .env
+
+# Python 
+bin/*
+lib/*
+pyvenv.cfg
